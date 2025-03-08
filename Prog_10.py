@@ -6,4 +6,4 @@ SMALL = min(num_1, num_2)
 LARGE = max(num_1, num_2)
 
 for i in range(SMALL + 1, LARGE):
-    print(i)
+    print(
